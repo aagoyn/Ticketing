@@ -1,0 +1,14 @@
+D:\apps\Ticketing\bin\Debug\net8.0\Ticketing.exe
+D:\apps\Ticketing\bin\Debug\net8.0\Ticketing.deps.json
+D:\apps\Ticketing\bin\Debug\net8.0\Ticketing.runtimeconfig.json
+D:\apps\Ticketing\bin\Debug\net8.0\Ticketing.dll
+D:\apps\Ticketing\bin\Debug\net8.0\Ticketing.pdb
+D:\apps\Ticketing\obj\Debug\net8.0\Ticketing.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\Ticketing\obj\Debug\net8.0\Ticketing.AssemblyInfoInputs.cache
+D:\apps\Ticketing\obj\Debug\net8.0\Ticketing.AssemblyInfo.cs
+D:\apps\Ticketing\obj\Debug\net8.0\Ticketing.csproj.CoreCompileInputs.cache
+D:\apps\Ticketing\obj\Debug\net8.0\Ticketing.dll
+D:\apps\Ticketing\obj\Debug\net8.0\refint\Ticketing.dll
+D:\apps\Ticketing\obj\Debug\net8.0\Ticketing.pdb
+D:\apps\Ticketing\obj\Debug\net8.0\Ticketing.genruntimeconfig.cache
+D:\apps\Ticketing\obj\Debug\net8.0\ref\Ticketing.dll
